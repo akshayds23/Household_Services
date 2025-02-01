@@ -1,0 +1,26 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 720 480' fill='none'>
+  <defs>
+    <linearGradient id='paint0' x1='0' y1='0' x2='720' y2='480' gradientUnits='userSpaceOnUse'>
+      <stop stop-color='#2A9D8F'/>
+      <stop offset='1' stop-color='#264653'/>
+    </linearGradient>
+    <linearGradient id='paint1' x1='180' y1='120' x2='540' y2='420' gradientUnits='userSpaceOnUse'>
+      <stop stop-color='#E9C46A'/>
+      <stop offset='1' stop-color='#F4A261'/>
+    </linearGradient>
+  </defs>
+  <rect width='720' height='480' rx='36' fill='url(#paint0)'/>
+  <g opacity='0.95'>
+    <path d='M120 340L120 216C120 208.268 123.343 200.88 129.009 195.636L267.009 68.6362C276.237 60.0276 290.763 60.0276 299.991 68.6362L438 195.636C443.657 200.872 447 208.254 447 215.978V340C447 355.464 434.464 368 419 368H148C132.536 368 120 355.464 120 340Z' fill='url(#paint1)'/>
+    <rect x='180' y='260' width='48' height='80' rx='6' fill='#FFFFFF' opacity='0.8'/>
+    <rect x='264' y='284' width='96' height='56' rx='8' fill='#FFFFFF' opacity='0.9'/>
+    <path d='M504 212H612C618.627 212 624 217.373 624 224V328C624 334.627 618.627 340 612 340H504C497.373 340 492 334.627 492 328V224C492 217.373 497.373 212 504 212Z' fill='#FFFFFF' opacity='0.85'/>
+    <path d='M504 212L564 144L660 144L612 212H504Z' fill='#E76F51' opacity='0.85'/>
+    <circle cx='540' cy='244' r='12' fill='#2A9D8F'/>
+    <rect x='528' y='268' width='96' height='12' rx='6' fill='#2A9D8F' opacity='0.85'/>
+    <rect x='528' y='292' width='64' height='12' rx='6' fill='#2A9D8F' opacity='0.7'/>
+  </g>
+  <circle cx='120' cy='120' r='52' fill='#FFFFFF' fill-opacity='0.12'/>
+  <circle cx='624' cy='78' r='36' fill='#FFFFFF' fill-opacity='0.1'/>
+  <circle cx='552' cy='420' r='60' fill='#FFFFFF' fill-opacity='0.08'/>
+</svg>
